@@ -1,2 +1,20 @@
-﻿body {
+﻿@font-face {
+    font-family: OswaldLight;
+    src: url(../../Fonts/Oswald-Light.ttf)
+}
+
+@font-face {
+    font-family: OswaldRegular;
+    src: url(../../Fonts/Oswald-Regular.ttf)
+}
+
+p {
+    font-size: large;
+}
+
+body {
+    font-family: OswaldLight;
+    background-repeat: repeat;
+    background-image: url('../../Images/GreyBackground.jpg');
+    background-size: 100% auto;
 }
