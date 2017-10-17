@@ -30,6 +30,9 @@ tr:nth-child(even) {
 #Wilt {
     background-color: lightblue;
 }
+#Klay {
+    background-color: yellow;
+}
 
 body {
     font-family: OswaldLight;
