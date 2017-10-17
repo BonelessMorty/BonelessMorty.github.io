@@ -21,7 +21,7 @@ th, td {
     padding: 8px;
 }
 tr:nth-child(odd)  {
-    background-color: lightgreen;
+    background-color: yellow;
 }
 
 tr:nth-child(even) {
