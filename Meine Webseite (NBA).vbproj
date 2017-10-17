@@ -100,7 +100,6 @@
     <Content Include="Fakten.html" />
     <Content Include="Scripts\w3.js" />
     <Content Include="Standard Elements\Header.html" />
-    <Content Include="Standard Elements\Page Template.html" />
     <Content Include="Stylesheets\FaktenStylesheet.css" />
     <Content Include="index.html" />
     <Content Include="Stylesheets\HomepageStylesheet.css" />
