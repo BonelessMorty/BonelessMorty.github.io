@@ -33,6 +33,9 @@ tr:nth-child(even) {
 #Klay {
     background-color: yellow;
 }
+#Allen {
+    background-color: lightblue;
+}
 
 body {
     font-family: OswaldLight;
