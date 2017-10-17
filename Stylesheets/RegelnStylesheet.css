@@ -11,7 +11,9 @@
 p {
     font-size: large;
 }
-
+h5 {
+    font-family: OswaldRegular;
+}
 body {
     font-family: OswaldLight;
     background-repeat: repeat;
