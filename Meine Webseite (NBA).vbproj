@@ -97,22 +97,22 @@
     <Content Include="Images\basketball_basketball_court_wall_building_63199_3840x1200.jpg" />
     <Content Include="Images\basketball_court_wallpaper_025.jpg" />
     <Content Include="Images\GreyBackground.jpg" />
-    <Content Include="Pages\Fakten.html" />
+    <Content Include="Fakten.html" />
     <Content Include="Scripts\w3.js" />
     <Content Include="Standard Elements\Header.html" />
     <Content Include="Standard Elements\Page Template.html" />
     <Content Include="Stylesheets\FaktenStylesheet.css" />
-    <Content Include="Pages\Homepage.html" />
+    <Content Include="index.html" />
     <Content Include="Stylesheets\HomepageStylesheet.css" />
     <Content Include="favicon.ico" />
-    <Content Include="Pages\NBA2K.html" />
+    <Content Include="NBA2K.html" />
     <Content Include="Stylesheets\!Always Add!\HeaderStylesheet.css" />
     <Content Include="Stylesheets\!Always Add!\MainStylesheet.css" />
     <Content Include="Stylesheets\NBA2KStylesheet.css" />
-    <Content Include="Pages\Regeln.html" />
+    <Content Include="Regeln.html" />
     <Content Include="Stylesheets\RegelnStylesheet.css" />
     <Content Include="Web.config" />
-    <Content Include="Pages\Übermich.html" />
+    <Content Include="Übermich.html" />
     <Content Include="Stylesheets\ÜbermichStylesheet.css" />
   </ItemGroup>
   <ItemGroup>
