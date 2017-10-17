@@ -20,6 +20,9 @@ th, td {
     text-align: left;
     padding: 8px;
 }
+tr:nth-child(odd)  {
+    background-color: lightgreen;
+}
 
 tr:nth-child(even) {
     background-color: lightblue;
