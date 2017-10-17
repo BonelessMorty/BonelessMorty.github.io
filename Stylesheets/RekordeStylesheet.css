@@ -20,6 +20,9 @@ th, td {
     text-align: left;
     padding: 8px;
 }
+th {
+    font-size: 20px;
+}
 tr:nth-child(odd)  {
     background-color: yellow;
 }
