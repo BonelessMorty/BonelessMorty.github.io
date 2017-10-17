@@ -27,6 +27,9 @@ tr:nth-child(odd)  {
 tr:nth-child(even) {
     background-color: lightblue;
 }
+#Wilt {
+    background-color: lightblue;
+}
 
 body {
     font-family: OswaldLight;
