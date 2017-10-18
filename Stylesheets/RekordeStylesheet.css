@@ -11,6 +11,9 @@
 p {
     font-size: large;
 }
+h2 {
+    font-weight: bold;
+}
 table {
     border-collapse: collapse;
     width: 100%;
