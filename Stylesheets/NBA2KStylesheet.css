@@ -11,6 +11,9 @@ p {
     border-left: 5px solid red;
     background-color: lightblue;
 }
+img {
+    float: right;
+}
 
 body {
     font-family: OswaldLight;
