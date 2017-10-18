@@ -16,6 +16,7 @@ h5 {
 }
 body {
     font-family: OswaldLight;
+    font-size: large;
     background-repeat: repeat;
     background-image: url('../../Images/GreyBackground.jpg');
     background-size: 100% auto;
