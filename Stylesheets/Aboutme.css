@@ -1,0 +1,11 @@
+﻿@font-face {
+    font-family: OswaldLight;
+    src: url(../../Fonts/Oswald-Light.ttf)
+}
+
+@font-face {
+    font-family: OswaldRegular;
+    src: url(../../Fonts/Oswald-Regular.ttf)
+}
+body {
+}
