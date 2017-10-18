@@ -92,7 +92,9 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GIFS\CurryFinals.gif" />
     <Content Include="GIFS\giphy.gif" />
+    <Content Include="GIFS\LeBronFinals.gif" />
     <Content Include="Images\Basketball Michael Jordan.jpg" />
     <Content Include="Images\gettyimages-494746488_master.jpg" />
     <Content Include="Images\GreyBackground.jpg" />
