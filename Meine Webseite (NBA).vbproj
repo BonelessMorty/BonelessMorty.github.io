@@ -93,7 +93,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="GIFS\giphy.gif" />
-    <Content Include="Videos\giphy.mp4" />
     <Content Include="Images\Basketball Michael Jordan.jpg" />
     <Content Include="Images\gettyimages-494746488_master.jpg" />
     <Content Include="Images\GreyBackground.jpg" />
