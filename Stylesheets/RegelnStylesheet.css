@@ -13,12 +13,56 @@ p {
 }
 h5 {
     font-family: OswaldRegular;
+    font-size: 18px;
 }
+
+.content {
+  margin-left: 218px;
+}
+
 body {
-    
+    margin: 0;
     font-family: OswaldLight;
     font-size: large;
     background-repeat: repeat;
     background-image: url('../../Images/GreyBackground.jpg');
     background-size: 100% auto;
+}
+
+footer {
+  margin-left: 218px;
+  margin-top: 60%;
+}
+
+subnav ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 102px;
+    padding: 0;
+    background-color: #f1f1f1;
+    position: absolute;
+    height: 100%;
+    overflow: auto;
+}
+
+subnav li a {
+    display: block;
+    font-size: 30px;
+    color: #000;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+subnav li{
+  float: none;
+}
+
+subnav li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+subnav li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
 }

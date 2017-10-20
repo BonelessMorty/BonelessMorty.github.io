@@ -9,22 +9,28 @@
     <title>Regeln</title>
 </head>
 <body>
-    <div id="secondnav"></div>
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
+    <subnav>
+      <ul>
+        <li><a class="active" href="#Sprungball">Sprungball</a></li>
+        <li><a href="Fouls.html">Fouls</a></li>
+        <li><a href="Zeitübertretungen.html">Zeitübertretungen</a></li>
+        <li><a href="Aus.html">Aus</a></li>
+      </ul>
+    </subnav>
+
+
     <div w3-include-html="Standard Elements/Header.html"></div>
-    <h5>Hier befinden sich die wichtigsten Regeln zu Basketball:</h5>
-    <br />
 
+    <div class="content">
+      <h5>Hier befinden sich die wichtigsten Regeln zu Basketball:</h5>
+    </div>
 
-    <script>w3.includeHTML();</script>
     <footer>
         <script type="text/javascript">
             document.write(new Date().getDate() + "." + (new Date().getMonth() + 1) + "." + new Date().getFullYear())
         </script>
     </footer>
+
+    <script>w3.includeHTML();</script>
 </body>
 </html>
