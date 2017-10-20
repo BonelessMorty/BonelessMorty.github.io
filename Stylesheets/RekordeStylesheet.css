@@ -50,3 +50,15 @@ body {
     background-image: url('../../Images/GreyBackground.jpg');
     background-size: 100% auto;
 }
+
+.firstColumn {
+  width: 450px;
+}
+
+.secondColumn {
+  width: 540px;
+}
+
+.thirdColumn {
+  width: 370px;
+}
