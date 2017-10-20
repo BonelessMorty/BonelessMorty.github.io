@@ -7,6 +7,16 @@
     font-family: OswaldRegular;
     src: url(../../Fonts/Oswald-Regular.ttf)
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  width: 80%;
+}
+
 body {
     font-family: OswaldLight;
     font-size: large;
