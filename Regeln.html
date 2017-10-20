@@ -9,18 +9,33 @@
     <title>Regeln</title>
 </head>
 <body>
-
-
-
-    <div w3-include-html="Standard Elements/Header.html"></div>
+  <div w3-include-html="Standard Elements/Header.html"></div>
 
     <div class="content">
       <h5>Hier befinden sich die wichtigsten Regeln zu Basketball:</h5>
     </div>
 
+    <ol>
+      <li><a href="javascript:changeText('text1');">Sprungball</a></li>
+      <li><a href="javascript:changeText('text2');">Fouls</a></li>
+      <li><a href="javascript:changeText('text3');">Zeitübertretungen</a></li>
+      <li><a href="javascript:changeText('text4');">Aus</a></li>
+      <li><a href="javascript:changeText('text5');">Rückspiel</a></li>
+      <li><a href="javascript:changeText('text6');">Schrittfehler</a></li>
+      <li><a href="javascript:changeText('text7');">Doppeldribbling</a></li>
+      <li><a href="javascript:changeText('text8');">Goaltending</a></li>
+      <li><a href="javascript:changeText('text9');">Fussspiel</a></li>
+    </ol>
+
+    <p>text</p>
+
     <footer>
         <script type="text/javascript">
             document.write(new Date().getDate() + "." + (new Date().getMonth() + 1) + "." + new Date().getFullYear())
+
+            function changeText(text){
+              document.getElementsByTagName('p')[0].innerHTML = text;
+            }
         </script>
     </footer>
 

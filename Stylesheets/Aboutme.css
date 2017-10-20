@@ -7,6 +7,9 @@
     font-family: OswaldRegular;
     src: url(../../Fonts/Oswald-Regular.ttf)
 }
+#Harriot {
+  float: left;
+}
 img {
   display: block;
   margin: 0 auto;
@@ -14,7 +17,7 @@ img {
 
 p {
   text-align: center;
-  width: 80%;
+  width: 100%;
 }
 
 body {
@@ -23,4 +26,8 @@ body {
     background-repeat: repeat;
     background-image: url('../../Images/GreyBackground.jpg');
     background-size: 100% auto;
+}
+
+video {
+  float:left;
 }
