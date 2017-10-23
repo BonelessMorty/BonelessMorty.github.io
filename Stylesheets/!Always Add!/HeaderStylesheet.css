@@ -1,5 +1,7 @@
-﻿#Titel {
-    font-family: OswaldRegular;
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+#Titel {
+    font-family: 'Oswald';
     font-size: 50px;
     display: inline-block;
     text-align: center;
@@ -13,7 +15,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: blue;
-    font-family: OswaldRegular;
+    font-family: 'Oswald';
     list-style-type: none;
 }
 

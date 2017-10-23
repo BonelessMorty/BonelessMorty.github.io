@@ -1,17 +1,11 @@
-﻿@font-face {
-    font-family: OswaldLight;
-    src: url(../../Fonts/Oswald-Light.ttf)
-}
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
-@font-face {
-    font-family: OswaldRegular;
-    src: url(../../Fonts/Oswald-Regular.ttf)
-}
 p {
     font-size: large;
 }
 body {
-    font-family: OswaldLight;
+    font-family: 'Oswald';
+    font-weight: lighter;
     font-size: large;
     background-repeat: repeat;
     background-image: url('../../Images/GreyBackground.jpg');
