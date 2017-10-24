@@ -3,8 +3,8 @@
 #WiltChamberlain {
   width: 20%;
   height: auto;
-  float: left;
   padding:0px 70px 0px 0px;
+  margin-left: 60px;
 }
 p {
     font-size: large;
@@ -39,6 +39,9 @@ tr:nth-child(even) {
 }
 #Allen {
     background-color: lightblue;
+}
+#Russell {
+  align: middle;
 }
 
 
