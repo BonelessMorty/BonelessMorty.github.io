@@ -3,7 +3,7 @@
 #WiltChamberlain {
   width: 20%;
   height: auto;
-  float: right;
+  float: left;
   padding:0px 70px 0px 0px;
 }
 p {
@@ -39,6 +39,9 @@ tr:nth-child(even) {
 }
 #Allen {
     background-color: lightblue;
+}
+
+
 }
 
 body {
